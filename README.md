@@ -1,13 +1,13 @@
-#Platform Assessment
+# Platform Assessment
 
-###Contents
-- [Welcome](###Welcome 😀)
-- [Success in Role](###Success in this role 🚀)
-- [Challenge](###Challenge 🏂)
+### Contents
+- [Welcome](### Welcome 😀)
+- [Success in Role](### Success in this role 🚀)
+- [Challenge](### Challenge 🏂)
 
 
 
-###Welcome 😀
+### Welcome 😀
 
 If you are reading this, you are a candidate for the platform team.
 
@@ -15,7 +15,7 @@ We are so glad you are here and can't wait to find out if our team is a great fi
 
 This repo is designed to help us determine the technical part of that.
 
-###Success in this role 🚀
+### Success in this role 🚀
 
 Our team is made up of "hands on keyboard" folks, you will be expected to wear multiple hats.
 
@@ -45,7 +45,7 @@ Platform Values
  
  If you strongly disagree with any of the above, you likely won't be happy on our team. No hard feelings!
  
- ###Challenge 🏂
+ ### Challenge 🏂
  
  We provide you the following:
  - An AWS account to test with
