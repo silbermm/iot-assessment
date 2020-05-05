@@ -5,5 +5,3 @@ terraform {
 provider aws {
   version = ">= 2.57.0"
 }
-
-# Your HCL goes below! You got this!
